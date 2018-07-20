@@ -1469,6 +1469,30 @@
     "repo": "https://github.com/owickstrom/purescript-spec.git",
     "version": "v3.0.0"
   },
+    "spork": {
+    "dependencies": [
+      "prelude",
+      "console",
+      "tailrec",
+      "arrays",
+      "refs",
+      "foldable-traversable",
+      "maybe",
+      "aff",
+      "halogen-vdom",
+      "dom-indexed",
+      "unsafe-reference",
+      "web-dom",
+      "web-html",
+      "web-events",
+      "web-uievents",
+      "effect",
+      "foreign",
+      "ordered-collections"
+    ],
+    "repo": "https://github.com/natefaubion/purescript-spork.git",
+    "version": "v1.0.0"
+  },
   "spec-quickcheck": {
     "dependencies": [
       "aff",
